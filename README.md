@@ -76,9 +76,6 @@ Apply [the patch](patches/t1000e-alt-ble-identity.patch) to the exact upstream c
 
 To return to the factory Bluetooth identity, flash the official upstream T1000-E Companion Bluetooth firmware.
 
-## Privacy
-
-The source, documentation, and binaries were checked before publication. They contain no user-specific BLE address, device name, channel data, local filesystem path, access token, private key, or personal email. The alternate BLE address is derived at runtime on the device.
 
 ## License and attribution
 
